@@ -4,4 +4,10 @@ out/
 *.class
 target/
 .DS_Store
+Thumbs.db.idea/
+out/
+*.iml
+*.class
+target/
+.DS_Store
 Thumbs.db
